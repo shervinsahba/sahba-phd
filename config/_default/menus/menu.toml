@@ -1,0 +1,24 @@
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  parent = ""
+  weight = 1
+[[navbar]]
+  identifier = "research"
+  name = "Research"
+  url = "/Research/"
+  parent = ""
+  weight = 2
+[[navbar]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  parent = ""
+  weight = 3
+[[navbar]]
+  identifier = "CV"
+  name = "CV"
+  url = "../CV_Shervin_Sahba.pdf"
+  parent = ""
+  weight = 4

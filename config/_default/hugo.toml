@@ -1,0 +1,21 @@
+baseURL = "https://sahba.phd"
+languageCode = "en-us"
+title = "Shervin Sahba"
+theme = "hugo-theme-monochrome"
+paginate = 5
+
+
+[Author]
+    name = "Shervin Sahba"
+    bio = "Shervin Sahba is a real human being."
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+[markup.goldmark.renderer]
+    unsafe = false
