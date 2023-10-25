@@ -1,7 +1,7 @@
 navbar_title = "Shervin Sahba"
 footer = "Copyright © 2021-2023 Shervin Sahba"
 author = "Shervin Sahba"
-email = "shervin @at@ sahba .dot. phd"
+email = "shervin @at@ sahba.phd"
 
 enable_zooming_js = true
 enable_toc = true
