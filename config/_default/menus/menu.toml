@@ -1,10 +1,4 @@
 [[navbar]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
-  parent = ""
-  weight = 1
-[[navbar]]
   identifier = "research"
   name = "Research"
   url = "/Research/"
@@ -22,3 +16,9 @@
   url = "../CV_Shervin_Sahba.pdf"
   parent = ""
   weight = 4
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  parent = ""
+  weight = 5
