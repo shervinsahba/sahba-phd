@@ -11,11 +11,9 @@ tags = [
 ]
 +++
 
-I developed this website using the [hugo framework](https://gohugo.io/). It's reminiscent of Jekyll, which you may be familiar with if you made a Github page in the last five years, but instead of written in Ruby, it's written in Go. Hugo seems to be friendlier and faster to me than Jekyll, so I'll be sticking with this layout for the foreseeable future.
+I developed this website using the [hugo framework](https://gohugo.io/). Hugo is reminiscent of Jekyll, which you may be familiar with if you made a Github page in the last five years. While Jekyll is written in Ruby, Hugo is written in Go. Hugo seems to be friendlier and faster to me than Jekyll, so I'll be sticking with this layout for the foreseeable future.
 
-That being said, after grabbing a theme and setting up the framework, I'm mainly editting Markdown and making CSS/HTML tweaks.
-
-If you're looking to make a blog, it's worth setting up a framework that leverages Markdown. It's easy to learn, write, and maintain. Having your blog posts sitting in human readable text files is enormously powerful (as an aside, this is why I adore the note-taking app [Obsidian](https://obsidian.md/)). 
+After grabbing a theme and setting up the framework, I'm mainly editting Markdown and making CSS/HTML tweaks. If you're looking to make a blog or static site, it's worth taking a look at Hugo. Chiefly, the content almost all leverages Markdown. That makes it easy to learn, write, and maintain. Having your blog posts sitting in human readable text files is enormously powerful (as an aside, this is why I adore the note-taking app [Obsidian](https://obsidian.md/)). 
 
 # Theming
 
