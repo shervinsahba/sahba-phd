@@ -1,0 +1,22 @@
+{{ with (.Scratch.Get "params").footer }}
+<footer>
+    <article>
+        {{- . | safeHTML -}}
+    </article>
+    <center>
+        <small>
+            <a href="/">home</a>
+            ∙ <a href="https://github.com/shervinsahba">github</a>
+            ∙ <a href="https://www.twitter.com/phyzizizt">twitter</a>
+            ∙ <a href="https://www.linkedin.com/in/ssahba/">linkedin</a>
+            ∙ <a href="https://scholar.google.com/citations?user=znf_PXkAAAAJ&hl=en&oi=ao">gscholar</a>                
+            ∙ <a href="/about">contact</a>
+        </small>
+    </center>
+    <center>
+        <small>
+            <a href="#">go to the top</a>
+        </small>
+    </center>
+</footer>
+{{ end }}
