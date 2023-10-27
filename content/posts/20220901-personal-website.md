@@ -17,7 +17,7 @@ After grabbing a theme and setting up the framework, I'm mainly editting Markdow
 
 # Theming
 
-The theming is based off the lovely [monochrome theme](go.io/themes/hugo-theme-monochrome/) by You-Kai Zheng, and I've added some of my own CSS, icons, and shortcodes. Icon glyphs have been taken from [feathericons](https://feathericons.com/) and [academicons](https://github.com/jpswalsh/academicons). I'm more used to Nerd Fonts glyphs, which I use extensively on my Linux theming, so I might switch to those in the future.
+The theming is based off the lovely [monochrome theme by kaiiiz](https://kaiiiz.github.io/hugo-theme-monochrome/), and I've added some of my own CSS, icons, and shortcodes. Icon glyphs have been taken from [feathericons](https://feathericons.com/) and [academicons](https://github.com/jpswalsh/academicons). I'm more used to Nerd Fonts glyphs, which I use extensively on my Linux theming, so I might switch to those in the future.
 
 # Source code
 
