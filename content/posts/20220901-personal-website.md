@@ -22,3 +22,6 @@ The theming is based off the lovely [monochrome theme by kaiiiz](https://kaiiiz.
 # Source code
 
 You can grab the code for this page [on github](https://github.com/shervinsahba/sahba-phd). As always, it's a work in progress.
+
+---
+{{< breadcrumbs >}}
