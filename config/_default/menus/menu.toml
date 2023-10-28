@@ -1,15 +1,15 @@
 [[navbar]]
+  identifier = "about"
+  name = "Home"
+  url = "/"
+  parent = ""
+  weight = 1
+[[navbar]]
   identifier = "research"
   name = "Research"
   url = "/Research/"
   parent = ""
   weight = 2
-[[navbar]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  parent = ""
-  weight = 3
 [[navbar]]
   identifier = "CV"
   name = "CV"
