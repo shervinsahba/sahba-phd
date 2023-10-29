@@ -10,7 +10,9 @@ keywords:
 - shervin sahba
 - machine learning
 - physics
+- applied mathematics
 - phd
+- researcher
 - photonics
 - optics
 - aero-optics
@@ -19,21 +21,11 @@ keywords:
 - dnd
 ---
 
-
-<!-- {{< figure src="../images/Flammarion_cropped.png" >}} -->
-<!-- 
-[posts](/posts)
-
-[research](/research)
-
-[about](/about) -->
-
-
 {{< icon-group >}}
     {{< icon name="github" link="https://github.com/shervinsahba" >}}
     {{< icon name="twitter" link="https://www.twitter.com/phyzizizt" >}}
     {{< icon name="linkedin" link="https://www.linkedin.com/in/ssahba/" >}}
-    {{< icon name="mail" link="/about#contact" >}}
+    {{< icon name="mail" link="/#footer" >}}
 {{< /icon-group >}}
 
 
