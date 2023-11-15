@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "CV/Resume"
 weight: 3
 ---
 

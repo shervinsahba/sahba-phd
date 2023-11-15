@@ -1,6 +1,6 @@
 +++
 author = "Shervin Sahba"
-title = "Inject your email via javascript to thwart scrapers"
+title = "How to safely write your email on your website? Try javascript injection."
 date = "2023-10-27"
 description = "Obfuscating your email is old hat. Inject your email via javascript to circumvent bots."
 tags = [
